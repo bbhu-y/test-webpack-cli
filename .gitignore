@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+sftp-config.json
+jsconfig.json
+mocks
+dist
+.history
+.vscode
+mocks.js
+package-lock.json
